@@ -6,8 +6,8 @@
 class AboutMe:
 
     def __init__(self):
-        self.name = "Tên của bạn"
-        self.educations = ["Tên trường đại học"]
+        self.name = "Chu_Tien"
+        self.educations = ["UTH"]
         self.expected_graduation = "2028"
         self.role = "Data Engineering"
         self.language_spoken = ["vi_VN", "en_US"]
